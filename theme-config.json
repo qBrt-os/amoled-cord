@@ -1,5 +1,6 @@
 {
     "name": "AMOLED-Cord",
+    "import": "https://raw.githubusercontent.com/qBrt-os/amoled-cord/main/src/amoled-cord.css",
     "metas": {
         "betterdiscord": "clients/metas/betterdiscord.json",
         "userstyle": "clients/metas/userstyle.json"

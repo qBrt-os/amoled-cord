@@ -1,4 +1,5 @@
 {
     "namespace": "https://github.com/discord-extensions/amoled-cord",
-    "license": "MIT"
+    "license": "MIT",
+    "updateURL": "https://raw.githubusercontent.com/qBrt-os/amoled-cord/main/clients/amoled-cord.user.css"
 }

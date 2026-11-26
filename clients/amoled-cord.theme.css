@@ -5,11 +5,11 @@
  * @version 5.0.11
  * @invite vYdXbEzqDs
  * @authorId 399416615742996480
- * @source https://github.com/LuckFire/amoled-cord
- * @updateUrl https://github.com/LuckFire/amoled-cord/blob/main/clients/amoled-cord.theme.css
+ * @source https://github.com/qBrt-os/amoled-cord
+ * @updateUrl https://raw.githubusercontent.com/qBrt-os/amoled-cord/main/clients/amoled-cord.theme.css
 */
 
-@import url("https://luckfire.github.io/amoled-cord/src/amoled-cord.css");
+@import url("https://raw.githubusercontent.com/qBrt-os/amoled-cord/main/src/amoled-cord.css");
 
 .theme-midnight {
   --message-background-hover: var(--opacity-8) !important;

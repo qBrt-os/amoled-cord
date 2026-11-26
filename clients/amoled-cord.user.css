@@ -6,9 +6,10 @@
 	@version 5.0.11
 	@namespace https://github.com/discord-extensions/amoled-cord
 	@license MIT
+	@updateURL https://raw.githubusercontent.com/qBrt-os/amoled-cord/main/clients/amoled-cord.user.css
 	==/UserStyle== */
 
-	@import url("https://luckfire.github.io/amoled-cord/src/amoled-cord.css");
+	@import url("https://raw.githubusercontent.com/qBrt-os/amoled-cord/main/src/amoled-cord.css");
 
 	.theme-midnight {
 	  --message-background-hover: var(--opacity-8) !important;
